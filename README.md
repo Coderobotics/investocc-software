@@ -2,7 +2,7 @@
 
 **Investocc** is a powerful investment platform built with a modular PHP backend and a modern ES6 JavaScript frontend. It offers an all-in-one solution for managing online investment operations, admin control, and secure user access.
 
-This software was built by <a href="https://www.coderobotics.com/"> **Coderobotics LLC**.</a>
+This software was built by <a href="https://www.coderobotics.com/product/investment-php-script"> **Coderobotics LLC**.</a>
 
 ---
 
