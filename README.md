@@ -1,6 +1,6 @@
-# 💼 Investocc Software
+# 💼 Investment PHP Script
 
-**Investocc** is a powerful investment platform built with a modular PHP backend and a modern ES6 JavaScript frontend. It offers an all-in-one solution for managing online investment operations, admin control, and secure user access.
+**Investocc** is a powerful investment platform built with a modular PHP backend and a modern ES6 JavaScript frontend. Investocc is an investment PHP script that offers an all-in-one solution for managing online investment operations, admin control, and secure user access. Investocc is designed for flexibility and scalability, offering both frontend and backend solutions that can be integrated with your existing system or used as a standalone platform. It’s built with modern technologies to ensure secure, fast, and reliable operation for your investment business. Ready to take your investment platform to the next level. Contact us for a demo or to purchase your license. Once installed, the software provides everything you need to manage and grow your investment platform.
 
 This software was built by <a href="https://www.coderobotics.com/product/investment-php-script"> **Coderobotics LLC**.</a>
 
@@ -99,7 +99,7 @@ Supports methods: `GET`, `POST`, `PUT`, `DELETE`
 
 ## 📬 Support
 
-For assistance, open an [Issue](https://github.com/joshike-code/investocc-software/issues)  
+For assistance, open an [Issue](https://www.coderobotics.com/users/login?redirect=contact)  
 
 ---
 
